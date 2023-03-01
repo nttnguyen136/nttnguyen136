@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Thank you for visiting! Have a nice day~ ✨✨✨
+
+🌱 I’m currently learning....
 <!--
 **nttnguyen136/nttnguyen136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
