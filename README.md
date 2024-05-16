@@ -42,7 +42,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/nttnguyen136/nttnguyen136/output/snake.svg" alt="Snake animation" />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nttnguyen136/nttnguyen136/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nttnguyen136/nttnguyen136/output/github-snake.svg" />
